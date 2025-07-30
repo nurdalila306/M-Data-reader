@@ -207,7 +207,7 @@ def plot_differences(df, title_prefix=""):
 # --------------------------------------------------------------------------------------
 
 st.set_page_config(page_title="W-Format MAGDAS Viewer", layout="wide")
-st.title("W-Format MAGDAS Data Viewer / Converter")
+st.title("W-Format MAGDAS Data Viewer / Converter-By Habib")
 
 st.markdown("""
 **Instructions:**
