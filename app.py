@@ -211,8 +211,6 @@ st.title("W-Format MAGDAS Data Viewer / Converter")
 
 st.markdown("""
 
-**-By Habib**
-
 **Instructions:**
 1. Upload either:
    - A **ZIP** of your station folder (easiest), **or**
@@ -330,3 +328,4 @@ if st.button("Run Bulk Conversion & Download ZIP"):
         file_name="converted_magdas_data.zip",
         mime="application/zip"
     )
+
